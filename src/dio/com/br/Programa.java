@@ -10,6 +10,7 @@ public class Programa {
 		System.out.println(gato);
 		System.out.println(gato.getNome());
 		System.out.println(gato.getCor());
+		System.out.println(gato.getIdade());
 	}
 
 }
