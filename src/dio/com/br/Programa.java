@@ -9,6 +9,7 @@ public class Programa {
 		Gato gato =  new Gato("Tom", "Marrom", 2);
 		System.out.println(gato);
 		System.out.println(gato.getNome());
+		System.out.println(gato.getCor());
 	}
 
 }
